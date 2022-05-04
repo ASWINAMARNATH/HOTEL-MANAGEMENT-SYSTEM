@@ -6,7 +6,7 @@
 - JDBC
 - MySQL
 
-# Developed a Application based application, which has five modules
+# Developed a Application based application, which has seven modules
 # Admin functionalities
 - Employee Login
 -Give access to new employees for access the application.
@@ -38,12 +38,13 @@
 - Details of the employees are stored by employee.
 - Employee can allot room for customers.
 
-# Checkin 
+# Checkout
 - customer can checkout by employees.
 - Employee can generate the bill for the customer
 
-# Checkin 
+# Manage customer details
 - Employee can search the customer details based on their checkout date.
+
 # Dependencies in Hotelmanagement system
 - JDBC driver
 - JFrame
